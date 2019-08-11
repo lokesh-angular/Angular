@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.container-fluid {
+    margin-top: 20px;
+}
+span {
+    font-size: 12px;
+    color: gray;
+}
+label {
+    margin-top: 10px;
+    color: gray;
+}

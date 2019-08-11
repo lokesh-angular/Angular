@@ -1,0 +1,15 @@
+#header {
+    /* background-color: lightgrey; */
+    height: 140px;
+}
+h1 {
+    padding-top: 20px;
+    text-align: center;
+}
+h5 {
+    color: gray;
+    margin-left: 20px;
+}
+.purple {
+    color: purple;
+}
